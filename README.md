@@ -1,4 +1,4 @@
-### Product Data Cleaning and Preparation using Microsoft Excel
+## Product Data Cleaning and Preparation using Microsoft Excel
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project focuses on performing data cleaning and preparation on a product da
 
 In real-world business environments, datasets frequently contain incomplete, duplicated, or inconsistent information that can affect decision-making and analysis accuracy. This project demonstrates how Microsoft Excel can be effectively used to clean, standardize, and organize product-related data for better usability and interpretation.
 
----
+
 
 ## Project Objectives
 
@@ -19,9 +19,9 @@ The key objectives of this project are:
 * To apply number and date formatting for better readability
 * To implement conditional formatting techniques for improved data visualization
 
----
 
-### Dataset Description
+
+## Dataset Description
 
 The dataset used in this project contains the following attributes:
 
@@ -34,11 +34,11 @@ The dataset used in this project contains the following attributes:
 
 The dataset was analyzed and cleaned to ensure consistency, accuracy, and proper formatting for business analysis purposes.
 
----
 
-### Data Cleaning and Preparation Tasks
 
- ## Handling Missing Values
+## Data Cleaning and Preparation Tasks
+
+ ### Handling Missing Values
 
 Missing values were identified and treated appropriately to maintain dataset consistency.
 
@@ -49,9 +49,9 @@ Tasks Performed:
 * Identified missing entries in the Category column
 * Applied appropriate strategies to fill or standardize missing categories
 
----
 
-## Correcting Inconsistent Data
+
+### Correcting Inconsistent Data
 
 Text inconsistencies and typographical errors were identified and corrected.
 
@@ -61,9 +61,9 @@ Tasks Performed:
 * Identified and corrected typographical errors in the Category column
 * Used the Find and Replace feature to improve data consistency
 
----
 
-## Removing Duplicate Records
+
+### Removing Duplicate Records
 
 Duplicate records were identified and removed to improve data quality.
 
@@ -72,9 +72,9 @@ Tasks Performed:
 * Checked for duplicate rows within the dataset
 * Removed duplicate entries while preserving original data accuracy
 
----
 
-## Splitting and Merging Data
+
+### Splitting and Merging Data
 
 Column restructuring techniques were applied for better data organization.
 
@@ -86,9 +86,9 @@ Tasks Performed:
 * Removed unnecessary characters where required
 * Merged Brand Name and Product Name into a new column named Product Brand
 
----
 
-## Number and Date Formatting
+
+### Number and Date Formatting
 
 Formatting techniques were applied to improve readability and presentation.
 
@@ -97,9 +97,9 @@ Tasks Performed:
 * Converted the Price column into Currency Format
 * Formatted the Manufacturing Date column into DD-MM-YYYY format
 
----
 
-## Conditional Formatting
+
+### Conditional Formatting
 
 Conditional formatting techniques were implemented to visually highlight important information.
 
@@ -108,9 +108,9 @@ Tasks Performed:
 * Applied Data Bars or Color Scales in the Price column
 * Created a custom rule to highlight records where the Category is Electronics
 
----
 
-## Tools and Features Used
+
+### Tools and Features Used
 
 The following Microsoft Excel tools and features were utilized during the project:
 
@@ -123,9 +123,9 @@ The following Microsoft Excel tools and features were utilized during the projec
 * Date Formatting
 * Conditional Formatting
 
----
 
-### Requirements
+
+## Requirements
 
 To access and execute this project successfully, ensure the following requirements are available:
 
@@ -133,17 +133,17 @@ To access and execute this project successfully, ensure the following requiremen
 * Software: Microsoft Excel 2016 or above
 * Knowledge Required: Basic understanding of Excel functions and spreadsheet operations
 
----
 
-### Author
 
-## Hemarubini
+## Author
+
+### Hemarubini
 
 This project was developed as part of a practical learning process to strengthen knowledge in Microsoft Excel, data cleaning, and data preparation techniques.
 
----
 
-### Version History
+
+## Version History
 
 Version 1.0
 
@@ -155,12 +155,14 @@ Version 1.0
 
 Future enhancements may include advanced Excel dashboards, automation techniques, and data visualization.
 
----
 
-### Acknowledgments
+
+## Acknowledgments
 
 Special thanks to the following resources that supported the successful completion of this project:
 
 * Microsoft Excel – For spreadsheet-based data cleaning and transformation
 * GitHub – For project hosting and version control
 * Educational Learning Resources – For improving practical knowledge in Excel and data analysis
+
+---
