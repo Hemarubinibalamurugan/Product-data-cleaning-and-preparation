@@ -1,6 +1,6 @@
-###Product Data Cleaning and Preparation using Microsoft Excel
+### Product Data Cleaning and Preparation using Microsoft Excel
 
-Project Overview
+## Project Overview
 
 This project focuses on performing data cleaning and preparation on a product dataset using Microsoft Excel. The objective is to improve data quality and prepare the dataset for meaningful analysis by handling missing values, correcting inconsistencies, removing duplicate records, restructuring columns, and applying formatting techniques.
 
@@ -8,7 +8,7 @@ In real-world business environments, datasets frequently contain incomplete, dup
 
 ---
 
-Project Objectives
+## Project Objectives
 
 The key objectives of this project are:
 
@@ -21,7 +21,7 @@ The key objectives of this project are:
 
 ---
 
-Dataset Description
+### Dataset Description
 
 The dataset used in this project contains the following attributes:
 
@@ -36,9 +36,9 @@ The dataset was analyzed and cleaned to ensure consistency, accuracy, and proper
 
 ---
 
-Data Cleaning and Preparation Tasks
+### Data Cleaning and Preparation Tasks
 
-1. Handling Missing Values
+ ## Handling Missing Values
 
 Missing values were identified and treated appropriately to maintain dataset consistency.
 
@@ -51,7 +51,7 @@ Tasks Performed:
 
 ---
 
-2. Correcting Inconsistent Data
+## Correcting Inconsistent Data
 
 Text inconsistencies and typographical errors were identified and corrected.
 
@@ -63,7 +63,7 @@ Tasks Performed:
 
 ---
 
-3. Removing Duplicate Records
+## Removing Duplicate Records
 
 Duplicate records were identified and removed to improve data quality.
 
@@ -74,7 +74,7 @@ Tasks Performed:
 
 ---
 
-4. Splitting and Merging Data
+## Splitting and Merging Data
 
 Column restructuring techniques were applied for better data organization.
 
@@ -88,7 +88,7 @@ Tasks Performed:
 
 ---
 
-5. Number and Date Formatting
+## Number and Date Formatting
 
 Formatting techniques were applied to improve readability and presentation.
 
@@ -99,7 +99,7 @@ Tasks Performed:
 
 ---
 
-6. Conditional Formatting
+## Conditional Formatting
 
 Conditional formatting techniques were implemented to visually highlight important information.
 
@@ -110,7 +110,7 @@ Tasks Performed:
 
 ---
 
-Tools and Features Used
+## Tools and Features Used
 
 The following Microsoft Excel tools and features were utilized during the project:
 
@@ -125,34 +125,7 @@ The following Microsoft Excel tools and features were utilized during the projec
 
 ---
 
-Deliverables
-
-The following deliverables are included in this project:
-
-1. Excel Workbook (.xlsx)
-
-The Excel workbook includes:
-
-* Cleaned dataset
-* Corrected text formats
-* Duplicate-free records
-* Split and merged columns
-* Number and date formatting
-* Conditional formatting implementation
-
-2. PDF Documentation
-
-The PDF document includes screenshots and explanations of:
-
-* Missing value handling
-* Data correction using Find and Replace
-* Duplicate removal process
-* Column splitting and merging
-* Conditional formatting implementation
-
----
-
-Requirements
+### Requirements
 
 To access and execute this project successfully, ensure the following requirements are available:
 
@@ -162,15 +135,15 @@ To access and execute this project successfully, ensure the following requiremen
 
 ---
 
-Author
+### Author
 
-Hemarubini
+## Hemarubini
 
 This project was developed as part of a practical learning process to strengthen knowledge in Microsoft Excel, data cleaning, and data preparation techniques.
 
 ---
 
-Version History
+### Version History
 
 Version 1.0
 
@@ -184,7 +157,7 @@ Future enhancements may include advanced Excel dashboards, automation techniques
 
 ---
 
-Acknowledgments
+### Acknowledgments
 
 Special thanks to the following resources that supported the successful completion of this project:
 
