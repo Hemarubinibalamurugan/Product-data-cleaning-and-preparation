@@ -1,4 +1,4 @@
-## Product Data Cleaning and Preparation using Microsoft Excel
+# Product Data Cleaning and Preparation using Microsoft Excel
 
 ## Project Overview
 
